@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Rate-App/static/css/main.c16ffe55.chunk.css",
-    "main.js": "/Rate-App/static/js/main.74ba282f.chunk.js",
-    "main.js.map": "/Rate-App/static/js/main.74ba282f.chunk.js.map",
-    "runtime-main.js": "/Rate-App/static/js/runtime-main.e269efab.js",
-    "runtime-main.js.map": "/Rate-App/static/js/runtime-main.e269efab.js.map",
+    "main.css": "/Rate-App/static/css/main.09a255e6.chunk.css",
+    "main.js": "/Rate-App/static/js/main.b7a79cee.chunk.js",
+    "main.js.map": "/Rate-App/static/js/main.b7a79cee.chunk.js.map",
+    "runtime-main.js": "/Rate-App/static/js/runtime-main.aef210de.js",
+    "runtime-main.js.map": "/Rate-App/static/js/runtime-main.aef210de.js.map",
     "static/css/2.da1eef19.chunk.css": "/Rate-App/static/css/2.da1eef19.chunk.css",
-    "static/js/2.bb02293c.chunk.js": "/Rate-App/static/js/2.bb02293c.chunk.js",
-    "static/js/2.bb02293c.chunk.js.map": "/Rate-App/static/js/2.bb02293c.chunk.js.map",
-    "static/js/3.2973c8a8.chunk.js": "/Rate-App/static/js/3.2973c8a8.chunk.js",
-    "static/js/3.2973c8a8.chunk.js.map": "/Rate-App/static/js/3.2973c8a8.chunk.js.map",
+    "static/js/2.1d03bed4.chunk.js": "/Rate-App/static/js/2.1d03bed4.chunk.js",
+    "static/js/2.1d03bed4.chunk.js.map": "/Rate-App/static/js/2.1d03bed4.chunk.js.map",
+    "static/js/3.0ee5e085.chunk.js": "/Rate-App/static/js/3.0ee5e085.chunk.js",
+    "static/js/3.0ee5e085.chunk.js.map": "/Rate-App/static/js/3.0ee5e085.chunk.js.map",
     "index.html": "/Rate-App/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/Rate-App/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.c16ffe55.chunk.css.map": "/Rate-App/static/css/main.c16ffe55.chunk.css.map",
-    "static/js/2.bb02293c.chunk.js.LICENSE.txt": "/Rate-App/static/js/2.bb02293c.chunk.js.LICENSE.txt",
+    "static/css/main.09a255e6.chunk.css.map": "/Rate-App/static/css/main.09a255e6.chunk.css.map",
+    "static/js/2.1d03bed4.chunk.js.LICENSE.txt": "/Rate-App/static/js/2.1d03bed4.chunk.js.LICENSE.txt",
     "static/media/Abood.b6e94a9a.jpg": "/Rate-App/static/media/Abood.b6e94a9a.jpg",
     "static/media/comments.module.css": "/Rate-App/static/media/comment.867609cf.jpg",
     "static/media/Home.module.css": "/Rate-App/static/media/review-photo.0103d4e5.jpg",
@@ -23,10 +23,10 @@
     "static/media/yousef.8e8e3737.jpg": "/Rate-App/static/media/yousef.8e8e3737.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e269efab.js",
+    "static/js/runtime-main.aef210de.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.bb02293c.chunk.js",
-    "static/css/main.c16ffe55.chunk.css",
-    "static/js/main.74ba282f.chunk.js"
+    "static/js/2.1d03bed4.chunk.js",
+    "static/css/main.09a255e6.chunk.css",
+    "static/js/main.b7a79cee.chunk.js"
   ]
 }

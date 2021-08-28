@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Rate-App/static/css/main.4a8ea251.chunk.css",
-    "main.js": "/Rate-App/static/js/main.797c48c8.chunk.js",
-    "main.js.map": "/Rate-App/static/js/main.797c48c8.chunk.js.map",
+    "main.css": "/Rate-App/static/css/main.88e4352f.chunk.css",
+    "main.js": "/Rate-App/static/js/main.48ad5976.chunk.js",
+    "main.js.map": "/Rate-App/static/js/main.48ad5976.chunk.js.map",
     "runtime-main.js": "/Rate-App/static/js/runtime-main.aef210de.js",
     "runtime-main.js.map": "/Rate-App/static/js/runtime-main.aef210de.js.map",
     "static/css/2.da1eef19.chunk.css": "/Rate-App/static/css/2.da1eef19.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.0ee5e085.chunk.js.map": "/Rate-App/static/js/3.0ee5e085.chunk.js.map",
     "index.html": "/Rate-App/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/Rate-App/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.4a8ea251.chunk.css.map": "/Rate-App/static/css/main.4a8ea251.chunk.css.map",
+    "static/css/main.88e4352f.chunk.css.map": "/Rate-App/static/css/main.88e4352f.chunk.css.map",
     "static/js/2.1d03bed4.chunk.js.LICENSE.txt": "/Rate-App/static/js/2.1d03bed4.chunk.js.LICENSE.txt",
     "static/media/Abood.b6e94a9a.jpg": "/Rate-App/static/media/Abood.b6e94a9a.jpg",
     "static/media/comments.module.css": "/Rate-App/static/media/comment.867609cf.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.aef210de.js",
     "static/css/2.da1eef19.chunk.css",
     "static/js/2.1d03bed4.chunk.js",
-    "static/css/main.4a8ea251.chunk.css",
-    "static/js/main.797c48c8.chunk.js"
+    "static/css/main.88e4352f.chunk.css",
+    "static/js/main.48ad5976.chunk.js"
   ]
 }
